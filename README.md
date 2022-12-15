@@ -1,1 +1,1 @@
-# StayOrganized
+# StayOrganized contains a todo list for users to keep track of their task
